@@ -1,0 +1,5 @@
+{
+
+	"SnowPea":{"Normal":[0,1],"Attack":[14,15]},
+	"PeaBullet":{"Normal":[0,1],"Destory":[1,2]}
+}

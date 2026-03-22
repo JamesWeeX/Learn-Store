@@ -1,0 +1,29 @@
+{
+	"background":"Background",
+	"cardgroup":{
+		"card_cherrybomb": 150,
+		"card_chomper":150,
+		"card_peashooter":100,
+		"card_hypnoshroom":75,
+		"card_iceshroom":75,
+		"card_jalapeno":125,
+		"card_potatomine":25,
+		"card_puffshroom":0,
+		"card_repeaterpea":200,
+		"card_scaredyshroom":25,
+		"card_snowpea":175,
+		"card_spikeweed":100,
+		"card_squash":50,
+		"card_sunflower":50,
+		"card_sunshroom":25,
+		"card_threepeashooter":325,
+		"card_wallnut":50
+	},
+	"menus":{
+		"ChooserBackground":[0,0],
+		"PanelBackground":[0,90]
+	},
+	"button":{
+		"StartButton":[155,550]
+	}
+}
