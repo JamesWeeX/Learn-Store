@@ -1,0 +1,7 @@
+F:\Projects\C#Projects\Learn_c#\Learn_c#\obj\Debug\Learn_c#.csproj.AssemblyReference.cache
+F:\Projects\C#Projects\Learn_c#\Learn_c#\obj\Debug\Learn_c#.csproj.CoreCompileInputs.cache
+F:\Projects\C#Projects\Learn_c#\Learn_c#\bin\Debug\Learn_c#.exe.config
+F:\Projects\C#Projects\Learn_c#\Learn_c#\bin\Debug\Learn_c#.exe
+F:\Projects\C#Projects\Learn_c#\Learn_c#\bin\Debug\Learn_c#.pdb
+F:\Projects\C#Projects\Learn_c#\Learn_c#\obj\Debug\Learn_c#.exe
+F:\Projects\C#Projects\Learn_c#\Learn_c#\obj\Debug\Learn_c#.pdb

@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Projects\\C#Projects\\Learn_c#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB527AEE-A528-49BB-B8CC-1FE0642C1666}|Learn_c#\\Learn_c#.csproj|f:\\projects\\c#projects\\learn_c#\\learn_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB527AEE-A528-49BB-B8CC-1FE0642C1666}|Learn_c#\\Learn_c#.csproj|solutionrelative:learn_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Learn_c#||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Learn_c#",
+              "DocumentMoniker": "F:\\Projects\\C#Projects\\Learn_c#\\Learn_c#\\Learn_c#.csproj",
+              "RelativeDocumentMoniker": "Learn_c#\\Learn_c#.csproj",
+              "ToolTip": "F:\\Projects\\C#Projects\\Learn_c#\\Learn_c#\\Learn_c#.csproj",
+              "RelativeToolTip": "Learn_c#\\Learn_c#.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-12T13:38:05.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Projects\\C#Projects\\Learn_c#\\Learn_c#\\Program.cs",
+              "RelativeDocumentMoniker": "Learn_c#\\Program.cs",
+              "ToolTip": "F:\\Projects\\C#Projects\\Learn_c#\\Learn_c#\\Program.cs",
+              "RelativeToolTip": "Learn_c#\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAkwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T13:24:43.395Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
